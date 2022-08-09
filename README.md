@@ -1,2 +1,2 @@
 # Electrical-power-and-electronics
-four Servo motor task
+four Servo motor and Brushless motor tasks
